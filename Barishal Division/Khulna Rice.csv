@@ -1,0 +1,13 @@
+﻿Division,Comodity,Algorithm,MAE
+Khulna,Rice,TCN,7.96
+,,NBEATS,9.09
+,,(T)BATS,6.06
+,,Auto-ARIMA,7.67
+,,Theta,5.45
+,,Naive drift,5.09
+,,Naive seasonal,6.18
+,,Facebook Prophet,7
+,,ARIMA,6.22
+,,FFT,13.01
+,,Naive Ensemble,3.2
+,,RNN,2.47

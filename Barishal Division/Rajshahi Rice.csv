@@ -1,0 +1,13 @@
+﻿Division,Comodity,Algorithm,MAE
+Rajshahi,Rice,TCN,8.27
+,,NBEATS,10.96
+,,(T)BATS,73.26
+,,Auto-ARIMA,6.22
+,,Theta,9.4
+,,Naive drift,5.53
+,,Naive seasonal,6.09
+,,Facebook Prophet,5.61
+,,ARIMA,6.14
+,,FFT,13.27
+,,Naive Ensemble,3.12
+,,RNN,2.79

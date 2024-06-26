@@ -1,0 +1,13 @@
+﻿Division,Commodity,Algorithm,MAE
+Chattogram,Rice,TCN,7.78
+,,NBEATS,7.45
+,,(T)BATS,4.12
+,,Auto-ARIMA,4.2
+,,Theta,5.15
+,,Naive drift,4.06
+,,Naive seasonal,4.02
+,,Facebook Prophet,4.84
+,,ARIMA,4.28
+,,FFT,15.02
+,,Naive Ensemble,2.56
+,,RNN,1.99

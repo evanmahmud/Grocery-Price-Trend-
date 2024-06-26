@@ -1,0 +1,13 @@
+﻿Division,Commodity,Algorithm,MAE
+Dhaka,Rice,TCN,8.23
+,,NBEATS,6.3
+,,(T)BATS,8.33
+,,Auto-ARIMA,8.04
+,,Theta,7.54
+,,Naive drift,6.76
+,,Naive seasonal,8.84
+,,Facebook Prophet,4.68
+,,ARIMA,7.81
+,,FFT,17.17
+,,Naive Ensemble,2.86
+,,RNN,3.08

@@ -1,0 +1,13 @@
+﻿Division,Comodity,Algorithm,MAE
+Sylhet,Rice,TCN,7.74
+,,NBEATS,7.67
+,,(T)BATS,4.78
+,,Auto-ARIMA,4.65
+,,Theta,7.25
+,,Naive drift,5.29
+,,Naive seasonal,4.55
+,,Facebook Prophet,5.28
+,,ARIMA,4.65
+,,FFT,10.3
+,,Naive Ensemble,1.92
+,,RNN,2.49

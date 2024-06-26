@@ -1,0 +1,13 @@
+﻿Comodity,Algorithm,MAE
+Wheat Flour,TCN,0.87
+,NBEATS,2.35
+,(T)BATS,1.84
+,Auto-ARIMA,2.12
+,Theta,3.89
+,Naive drift,0.93
+,Naive seasonal,1.89
+,Facebook Prophet,1.7
+,ARIMA,2.21
+,FFT,8.5
+,Naïve Ensemble,0.62
+,RNN,0.88

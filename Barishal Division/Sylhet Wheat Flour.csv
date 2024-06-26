@@ -1,0 +1,13 @@
+﻿Division,Comodity,Algorithm,MAE
+,Wheat Flour,TCN,0.45
+,,NBEATS,0.38
+,,(T)BATS,1.51
+Sylhet,,Auto-ARIMA,2.66
+,,Theta,2.56
+,,Naive drift,2.33
+,,Naive seasonal,0.99
+,,Facebook Prophet,2.07
+,,ARIMA,3.65
+,,FFT,2.66
+,,Naïve Ensemble,5.44
+,,RNN,0.86

@@ -1,0 +1,13 @@
+﻿Comodity,Algorithm,MAE
+Lentils (Massor),TCN,18.94
+,NBEATS,25.62
+,(T)BATS,23.28
+,Auto-ARIMA,22.96
+,Theta,27.97
+,Naive drift,34.58
+,Naive seasonal,23.05
+,Facebook Prophet,13.4
+,ARIMA,24.22
+,FFT,14.03
+,Naive Ensemble,4.54
+,RNN,5.45
